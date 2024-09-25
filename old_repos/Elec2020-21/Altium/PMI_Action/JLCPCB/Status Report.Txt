@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PMI_Action.PcbDoc]
+   Generated File[PMI_Action.TXT]
+   Generated File[PMI_Action.LDP]
+   Generated File[PMI_Action.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:56:08 On 02/05/2021

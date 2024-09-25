@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PMI_Split.PcbDoc]
+   Generated File[PMI_Split.TXT]
+   Generated File[PMI_Split.LDP]
+   Generated File[PMI_Split.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 01:46:25 On 08/10/2020

@@ -1,0 +1,16 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=GR_Propu\GR_Propu.PrjPCB
+[Project2]
+ProjectPath=GR_Alim\GR_Alim.PrjPCB
+[Project3]
+ProjectPath=PMI_Action\PMI_Action.PrjPCB
+[Project4]
+ProjectPath=PMI_Split\PMI_Split.PrjPCB
+[Project5]
+ProjectPath=GR_Action\GR_Action.PrjPCB
+[Project6]
+ProjectPath=GR_Pi\GR_Pi.PrjPCB
+[Project7]
+ProjectPath=GR_Split\GR_Split.PrjPCB

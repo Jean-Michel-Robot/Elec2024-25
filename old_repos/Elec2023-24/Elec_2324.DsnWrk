@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Coccinellle\PCB_Coccinelle.PrjPCB
+[Project2]
+ProjectPath=Raspi_Hat\Raspi_Hat.PrjPcb

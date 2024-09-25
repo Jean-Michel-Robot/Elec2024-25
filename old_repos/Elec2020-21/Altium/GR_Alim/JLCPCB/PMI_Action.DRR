@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PMI_Action.PcbDoc   03/12/2020  21:38:48
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PMI_Action.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             23        PTH        8.56inch (217.51mm)
+T2      28mil (0.711mm)                                           Round             12        PTH        4.88inch (124.06mm)
+T3      30mil (0.75mm)                                            Round             11        PTH        6.06inch (154.05mm)
+T4      30mil (0.762mm)                                           Round             42        PTH        5.46inch (138.77mm)
+T5      35mil (0.9mm)                                             Round             42        PTH        8.50inch (215.93mm)
+T6      40mil (1.016mm)         +/-2mil (0.051mm)                 Round             4         PTH        2.53inch (64.37mm)
+T7      55mil (1.4mm)                                             Round             6         PTH        0.88inch (22.30mm)
+T8      126mil (3.2mm)                                            Round             4         NPTH       8.07inch (204.92mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              144
+
+Total Processing Time (hh:mm:ss) : 00:00:00

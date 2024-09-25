@@ -1,0 +1,41 @@
+requirements for PMI_Actions
+
+this card shoud allow the robot to:
+
+#Use 6 (analogic) servomotors -------------------------------------------------- OK
+    - One for each resistor reader arm (left and right)
+          Servo_Reader_Left
+          Servo_Reader_Right
+    - One for each fliper arms (left and right)
+          Servo_Flipper_Left
+          Servo_Flipper_Right
+    - One for each grabber for the statue and replica
+          Servo_Grabber_F
+          Servo_Grabber_R
+
+#Read the resistor value with a voltage divider -------------------------------- OK
+
+#Use the sonars ---------------------------------------------------------------- OK
+    15V_S power rail
+    tension divider for the reading (see PMI_Action 2021)
+         Sonar_1
+         Sonar_2
+
+#Use the ISB  ------------------------------------------------------------------ OK
+    see PMI_Action 2021
+
+#Reade some bumpers for each action --------------------------------------------
+    6 bumpers for each servo:
+      Servo_Reader_Left
+      Servo_Reader_Right
+      Servo_Flipper_Left
+      Servo_Flipper_Right
+      Servo_Grabber_F
+      Servo_Grabber_R
+#Status LEDs    ---------------------------------------------------------------- OK
+        -5V_L
+        -5V_A
+
+#Provide two grounds   --------------------------------------------------------- OK
+         -GND_A
+         -GND_L

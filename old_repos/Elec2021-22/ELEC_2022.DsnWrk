@@ -1,0 +1,16 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=GR_Alim\GR_Alim.PrjPcb
+[Project2]
+ProjectPath=Formation\Formation.PrjPcb
+[Project3]
+ProjectPath=PMI_Action\PMI_Action.PrjPcb
+[Project4]
+ProjectPath=GR_actions\GR_Action.PrjPCB
+[Project5]
+ProjectPath=Vitrine\Vitrine.PrjPcb
+[Project6]
+ProjectPath=ISB V2\ISB_V2.PrjPCB
+[Project7]
+ProjectPath=PMI_Split\PMI_Split.PrjPCB

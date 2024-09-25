@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : G:\Mon Drive\programmation\club_robotique\Elec2023-24\Coccinellle\PCB_coccinel.PcbDoc
+Date         : 05/03/2024
+Time         : 23:11:19
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100,00%
+    Connections, 71
+    Connections routed, 71
+    Connections remaining, 0
+count : 4

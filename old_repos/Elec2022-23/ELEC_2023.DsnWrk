@@ -1,0 +1,14 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Test\Test.PrjPCB
+[Project2]
+ProjectPath=R1_Propu\R1_Propu.PrjPCB
+[Project3]
+ProjectPath=New_Action\New_Action.PrjPcb
+[Project4]
+ProjectPath=Action_Split\Action_Split.PrjPCB
+[Project5]
+ProjectPath=PanierPiano\PanierPiano.PrjPCB
+[Project6]
+ProjectPath=ISB V3\ISB_V3.PrjPCB
