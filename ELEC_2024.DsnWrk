@@ -1,4 +1,8 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=carte_action\carte_action\carte_action.PrjPcb
+ProjectPath=carte_action\carte_action.PrjPcb
+[Project2]
+ProjectPath=pami_superstar\pami_superstar.PrjPcb
+[Project3]
+ProjectPath=pami_groupie\pami_groupie.PrjPcb
