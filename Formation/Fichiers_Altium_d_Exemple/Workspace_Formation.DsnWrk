@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=1_Footprint\1_Footprint.PrjPCB
+[Project2]
+ProjectPath=2_Nets\2_Nets.PrjPcb
+[Project3]
+ProjectPath=Blinking_LED\Blinking_LED.PrjPcb
+[Project4]
+ProjectPath=1_Demo_Footprint\1_Demo_Footprint.PrjPcb
+[Project5]
+ProjectPath=3_Demo_PCB\3_Demo_PCB.PrjPcb
