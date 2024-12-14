@@ -6,3 +6,5 @@ ProjectPath=carte_action\carte_action.PrjPcb
 ProjectPath=pami_superstar\pami_superstar.PrjPcb
 [Project3]
 ProjectPath=pami_groupie\pami_groupie.PrjPcb
+[Project4]
+ProjectPath=..\old_repos\Elec2023-24\Coccinellle\PCB_Coccinelle.PrjPCB
