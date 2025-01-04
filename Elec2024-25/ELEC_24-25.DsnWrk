@@ -8,3 +8,5 @@ ProjectPath=pami_superstar\pami_superstar.PrjPcb
 ProjectPath=pami_groupie\pami_groupie.PrjPcb
 [Project4]
 ProjectPath=..\old_repos\Elec2023-24\Coccinellle\PCB_Coccinelle.PrjPCB
+[Project5]
+ProjectPath=..\..\..\..\Documents\AltiumLL\AltiumLL.PrjScr
