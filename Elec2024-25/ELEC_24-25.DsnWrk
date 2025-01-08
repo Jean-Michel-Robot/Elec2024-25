@@ -3,10 +3,8 @@ Version=1.0
 [Project1]
 ProjectPath=carte_action\carte_action.PrjPcb
 [Project2]
-ProjectPath=pami_superstar\pami_superstar.PrjPcb
-[Project3]
 ProjectPath=pami_groupie\pami_groupie.PrjPcb
-[Project4]
+[Project3]
 ProjectPath=..\old_repos\Elec2023-24\Coccinellle\PCB_Coccinelle.PrjPCB
-[Project5]
-ProjectPath=..\..\..\..\Documents\AltiumLL\AltiumLL.PrjScr
+[Project4]
+ProjectPath=pami_superstar\pami_superstar.PrjPcb
