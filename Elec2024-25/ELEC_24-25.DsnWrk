@@ -8,3 +8,5 @@ ProjectPath=pami_groupie\pami_groupie.PrjPcb
 ProjectPath=pami_superstar\pami_superstar.PrjPcb
 [Project4]
 ProjectPath=Carte suiveur ligne\Carte suiveur ligne.PrjPcb
+[Project5]
+ProjectPath=..\..\..\..\Documents\AltiumLL\AltiumLL.PrjScr
