@@ -270,6 +270,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXIJGASK
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for carte_action\Design Rule Check - PCBAction.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
