@@ -12,3 +12,5 @@ ProjectPath=Carte suiveur ligne\Carte suiveur ligne.PrjPcb
 ProjectPath=Raspi_Hat_V2\Raspi_Hat_V2.PrjPcb
 [Project6]
 ProjectPath=split_action\split_action_4_into_2_2.PrjPcb
+[Project7]
+ProjectPath=split_action_2\split_action_2_into_1_1.PrjPcb
