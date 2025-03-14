@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=SchemaSplit.SchDoc
+DocumentPath=SchemaSplit_4_into_2_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FLJXCEBQ
 
 [Document2]
-DocumentPath=PCB_split_action.PcbDoc
+DocumentPath=PCB_split_action_4_into_2_2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
